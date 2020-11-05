@@ -8,7 +8,7 @@
     <body>
         <h2>Avengers Character Search</h2>
         <form class="heroes" id="heroes" >
-            <button type="submit"><i class="fa fa-search" id="click"></i></button>
+            <button type="submit" id="hello">Search !</button>
         </form>
     </body>
 </html>

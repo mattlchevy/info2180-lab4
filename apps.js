@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var goheros = $('#click');
+    var goheros = $('hello');
 
     goheros.on('click', function(){
         $.ajax('superheroes.php', {
